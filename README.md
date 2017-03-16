@@ -13,4 +13,4 @@ The third module is the user portal itself, "mik_live" in which the content is d
 
 ## Documentation
 
-I worked on this profect for my graduation thesis, so if you can read italian, you will find in **Documentazione - Tesi.docx** a good documentation for the the firsts 2 modules of the software (DCMS and WCMS modules).
+I worked on this project for my graduation thesis, so if you can read italian, you will find in **Documentazione - Tesi.docx** a good documentation for the the firsts 2 modules of the software (DCMS and WCMS modules).
