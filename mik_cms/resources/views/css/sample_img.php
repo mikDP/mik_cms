@@ -1,0 +1,1 @@
+<img id="sample_img" class="" src="/mik_cms/resources/assets/images/sample.jpg" />
